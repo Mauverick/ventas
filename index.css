@@ -1,0 +1,21 @@
+/* 
+codigo css ejemplo1 
+*/
+
+
+/* selector de id */
+#titulo{
+    color: red;
+    text-align: center
+}
+
+#opcion{
+    color: green;
+    text-align: center
+}
+
+/* selector de clase */
+
+.alerta {
+    text-decoration: underline
+}
